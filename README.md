@@ -1,4 +1,4 @@
-# learn-fullstack-javascript
+# Fullstack-JavaScript-Development
 Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js
 
 ###Getting Started###
@@ -24,3 +24,4 @@ Click [here](https://github.com/tranthanh95/Fullstack-JavaScript-Development.git
 	> npm run dev
 ```
 
+###Happy Codings.^^###
