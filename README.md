@@ -1,11 +1,11 @@
 # Fullstack-JavaScript-Development
 Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js
 
-###Getting Started###
-
+### Getting Started
+ 
 There are two methods for getting started with this repo.
 
-####Familiar with Git?#####
+#### Familiar with Git?
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
@@ -15,7 +15,7 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 	> npm run dev
 ```
 
-####Not Familiar with Git?#####
+#### Not Familiar with Git?
 Click [here](https://github.com/tranthanh95/Fullstack-JavaScript-Development.git) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
@@ -24,4 +24,4 @@ Click [here](https://github.com/tranthanh95/Fullstack-JavaScript-Development.git
 	> npm run dev
 ```
 
-###Happy Codings.^^###
+### Happy Codings.^^
